@@ -19,7 +19,7 @@
 - 🖥️ **Tech Stack:** Flutter, Dart, TensorFlow, Google Cloud, Firebase
 - 📌 Detects crop diseases using **AI-based image recognition**
 
-### 🔹 [Kumbh Sarthi (SIH 2024 - Top 5 Team)](https://github.com/yourkumbhsarthirepo)
+### 🔹 [Kumbh Sarthi (SIH 2024 - Top 5 Team)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)
 - 📍 **Tech Stack:** Kotlin, Firebase, Google Maps API, SQLite
 - ⚡ Real-time **location tracking, SOS alerts, and medical assistance**
 
@@ -27,10 +27,9 @@
 - 📊 **Tech Stack:** Java, JavaFX, MVC Architecture
 - 🔍 Helps students visualize **sorting & searching algorithms**
 
-###🔹 Chaitanya AI - AI-Powered Elderly Care Assistant
-
--🖥 Tech Stack: Python, TensorFlow, Google Cloud, IoT, Blockchain
--🩺 Provides predictive health alerts, voice assistant integration, and secure data management to assist elderly care.
+### 🔹 [Chaitanya AI - AI-Powered Elderly Care Assistant](https://github.com/Kushagra-Chandel/Chaitanya-Virtual-Assistant)  
+- 🤖 **Tech Stack:** Python, TensorFlow, Google Cloud, IoT, Blockchain  
+- 🩺 Provides **predictive health alerts, voice assistant integration, and secure data management** for elderly care.  
 
 ---
 
