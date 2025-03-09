@@ -58,5 +58,5 @@
 
 ---
 
-🔥 *Let's innovate together!* 🚀
+ *Let's innovate together!* 
 
