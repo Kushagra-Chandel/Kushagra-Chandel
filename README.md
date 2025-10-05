@@ -24,102 +24,86 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 Languages and Tools
 
-### 🧠 [Mind Vault AI](https://github.com/Kushagra-Chandel/MindVault-AI) *(Ongoing)*  
-- **Tech Stack:** Flutter · Python · FastAPI · TensorFlow/Keras · Firebase  
-- 📝 Full-stack AI-powered wellness assistant offering NLP journaling, emotional check-ins & personalized recommendations.  
-- 🚀 Trained custom deep learning models & deployed using REST APIs.
-
----
-
-### ⚡ [ANN–PID Controller](https://github.com/Kushagra-Chandel/ANN-PID-Controller)  
-- **Tech Stack:** MATLAB · Simulink · Neural Network Toolbox  
-- 🤖 Designed an **adaptive ANN-based PID controller** for DC motor speed regulation.  
-- 📈 Reduced overshoot & improved settling time over classical PID.
-
----
-
-### 📰 [Fake Information Detector](https://github.com/Kushagra-Chandel/Fake-Information-Detector)  
-- **Tech Stack:** Python · NLP · Scikit-learn · TensorFlow  
-- 🔍 Trained NLP models to classify fake vs real news with high accuracy.  
-- 🌐 Deployed via API endpoints for real-time classification.
-
----
-
-### 🧭 [Kumbh Sarthi (SIH 2024)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)  
-- **Tech Stack:** Flutter · Firebase · Google Maps API  
-- 📍 Real-time tourism assistant app with SOS, medical & hotel support.  
-- 🏆 **Top 10 Team** at Smart India Hackathon 2024.
-
----
-
-## 🌐 Supporting Projects  
-
-### 📚 [StudentVerse – Smart Campus Assistant](https://github.com/Kushagra-Chandel/StudentVerse)  
-- Flutter · Firebase · OpenAI APIs  
-- AI-powered chatbot + real-time campus features (events, notes, courses, themes).  
-
-### 🛡️ [Source Shield](https://github.com/Kushagra-Chandel/Source-Shield)  
-- Python · NLP · Cybersecurity  
-- Hybrid ML + security system for threat detection in real-time text streams.
-
----
-
-## 🏅 Certifications & Memberships
-
-### 🧠 Credly Certifications
-<p align="center">
-  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/1e3f9b1d-112b-46db-9020-79c8e90a8b8a/image.png" width="80" alt="Prompt Design Vertex AI"/>
-  </a>
-  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/0a12e715-464d-4ea2-91e3-6d84523f5e2a/image.png" width="80" alt="GenAI Apps"/>
-  </a>
-  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/3d3d796b-8a4b-4a7a-9f2b-69e264fe63b2/image.png" width="80" alt="Python for AI"/>
-  </a>
-  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/2e5eafbb-d414-47de-b4de-4c6171b15d25/image.png" width="80" alt="Intro to Cybersecurity"/>
-  </a>
-  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/9e4ab489-b5e2-4e3f-8a0f-0cf65ecbd8ed/image.png" width="80" alt="Cisco CCNA"/>
-  </a>
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <b>🔗 <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">View Full Credly Profile</a></b>
+### ⚙️ Backend & Cloud  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
+</p>
+
+### 🤖 Data Science & AI  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
+</p>
+
+### 🛠️ DevOps & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-### ☁️ Google Developer Profile & Community
+## 🏅 Badges & Achievements
+
+### 🧠 Credly Certifications  
+📜 [View all on Credly →](https://www.credly.com/users/kushagra-singh-chandel)  
 <p align="center">
-  <a href="https://g.dev/kushagra_chandel" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-Visit-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Dev Profile"/>
-  </a>
+  <img src="https://images.credly.com/size/200x200/images/bf8a0f56-1d23-4a7c-b53f-9365ce81b662/image.png" width="80" alt="Prompt Design Vertex AI"/>
+  <img src="https://images.credly.com/size/200x200/images/9a3a00e5-bbc5-4a0d-8f1f-693e8a2a4d7c/image.png" width="80" alt="GenAI Apps"/>
+  <img src="https://images.credly.com/size/200x200/images/241a5c5b-02c9-4b71-9a63-703d86a3ad92/image.png" width="80" alt="M & M RAG"/>
+  <img src="https://images.credly.com/size/200x200/images/f2b49d26-bf76-4c8b-8c62-3438d35dfcdf/image.png" width="80" alt="IBM Data Science & AI"/>
+  <img src="https://images.credly.com/size/200x200/images/ee982f75-6247-4560-873e-cae31086f981/image.png" width="80" alt="Cybersecurity"/>
+  <img src="https://images.credly.com/size/200x200/images/789d220e-d3c8-4c75-bfa8-b19f3d0352c9/image.png" width="80" alt="CCNA 1"/>
+  <img src="https://images.credly.com/size/200x200/images/699b8b73-7760-4b53-8a67-fb0a3a2a9b38/image.png" width="80" alt="CCNA 2"/>
+  <img src="https://images.credly.com/size/200x200/images/03e6b5ed-979f-4b08-80c4-5578e11bc4c2/image.png" width="80" alt="CCNA 3"/>
+  <img src="https://images.credly.com/size/200x200/images/1e75e33b-75b2-4df9-bd36-4ec2c97864fb/image.png" width="80" alt="Python Essentials 1"/>
+  <img src="https://images.credly.com/size/200x200/images/3ee6b324-0d36-4c59-97cf-3c99d7b12da9/image.png" width="80" alt="Python Essentials 2"/>
 </p>
 
+---
+
+### ☁️ Google Developer & Community  
+🌐 [Visit my Google Developer Profile →](https://g.dev/kushagra_chandel)  
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud%20Innovator-Member-blue?logo=google-cloud" />
   <img src="https://img.shields.io/badge/Google%20I%2FO%20Connect%2725-Attendee-green?logo=google" />
-  <img src="https://img.shields.io/badge/Solution%20Challenge%2724-Participant-orange?logo=google" />
+  <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%2724-Participant-orange?logo=google" />
 </p>
 
+---
 
-## 💻 Tech Stack
-
-**AI & ML:**  
-Python · TensorFlow · PyTorch · Scikit-learn · NLP · FastAPI · OpenCV
-
-**Development:**  
-Flutter · Firebase · REST APIs · Google Cloud · Flask
-
-**Control Systems:**  
-MATLAB · Simulink · Neural Networks
-
-**Other Tools:**  
-Git · VS Code · Docker · Postman
+## 🚀 Featured Projects
+*(keep your existing project section here — unchanged)*
 
 ---
 
@@ -137,11 +121,9 @@ Git · VS Code · Docker · Postman
 ---
 
 ## 🧠 LeetCode & Daily Streaks
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
 </p>
-
 <p align="center">
   🟡 <b>130+ Days LeetCode Streak</b> | 📅 Daily GitHub Commits | 🚀 Active Problem Solver
 </p>
