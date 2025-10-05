@@ -66,30 +66,46 @@
 
 ---
 
-## 🏅 Badges & Achievements
+## 🏅 Certifications & Memberships
 
-### 🧠 **Credly Certifications**
+### 🧠 Credly Certifications
 <p align="center">
-  <img src="https://images.credly.com/size/200x200/images/1e3f9b1d-112b-46db-9020-79c8e90a8b8a/image.png" width="80" alt="Prompt Design Vertex AI"/>
-  <img src="https://images.credly.com/size/200x200/images/0a12e715-464d-4ea2-91e3-6d84523f5e2a/image.png" width="80" alt="GenAI Apps"/>
-  <img src="https://images.credly.com/size/200x200/images/3d3d796b-8a4b-4a7a-9f2b-69e264fe63b2/image.png" width="80" alt="Python for AI"/>
-  <img src="https://images.credly.com/size/200x200/images/2e5eafbb-d414-47de-b4de-4c6171b15d25/image.png" width="80" alt="Intro to Cybersecurity"/>
+  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/1e3f9b1d-112b-46db-9020-79c8e90a8b8a/image.png" width="80" alt="Prompt Design Vertex AI"/>
+  </a>
+  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/0a12e715-464d-4ea2-91e3-6d84523f5e2a/image.png" width="80" alt="GenAI Apps"/>
+  </a>
+  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/3d3d796b-8a4b-4a7a-9f2b-69e264fe63b2/image.png" width="80" alt="Python for AI"/>
+  </a>
+  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/2e5eafbb-d414-47de-b4de-4c6171b15d25/image.png" width="80" alt="Intro to Cybersecurity"/>
+  </a>
+  <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/9e4ab489-b5e2-4e3f-8a0f-0cf65ecbd8ed/image.png" width="80" alt="Cisco CCNA"/>
+  </a>
 </p>
 
 <p align="center">
-  🟡 Vertex AI · 🟠 GenAI Apps · 🔵 Python for AI · 🟢 Cybersecurity · Cisco CCNA Series
+  <b>🔗 <a href="https://www.credly.com/users/kushagra-singh-chandel" target="_blank">View Full Credly Profile</a></b>
 </p>
 
 ---
 
-### ☁️ **Google Developer & Community**
+### ☁️ Google Developer Profile & Community
+<p align="center">
+  <a href="https://g.dev/kushagra_chandel" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Profile-Visit-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Dev Profile"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud%20Innovator-Member-blue?logo=google-cloud" />
   <img src="https://img.shields.io/badge/Google%20I%2FO%20Connect%2725-Attendee-green?logo=google" />
   <img src="https://img.shields.io/badge/Solution%20Challenge%2724-Participant-orange?logo=google" />
 </p>
 
----
 
 ## 💻 Tech Stack
 
