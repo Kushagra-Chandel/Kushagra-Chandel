@@ -3,7 +3,7 @@
 <p align="center">
   <b>🎓 B.Tech CSE (AIML) | 🧠 AI/ML Developer | 💻 Full Stack Innovator | ☁️ Google Cloud Member</b><br>
   Building scalable intelligent systems with a mix of ML, Cloud, and Real-World Engineering.
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kushagra-Chandel&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
