@@ -46,6 +46,22 @@
 
 ---
 
+## 🌐 Supporting Projects  
+
+### 📚 [StudentVerse – Smart Campus Assistant](https://github.com/Kushagra-Chandel/StudentVerse)  
+- **Tech Stack:** Flutter · Firebase · OpenAI APIs  
+- 👨‍🎓 Built an interactive student ecosystem app with real-time chat, notes sharing, event tracking, and an AI chatbot for instant support.  
+- 🛠️ Designed modern Figma-based UI, integrated light/dark theme and Firebase auth.
+
+---
+
+### 🛡️ [Source Shield](https://github.com/Kushagra-Chandel/Source-Shield)  
+- **Tech Stack:** Python · NLP · Cybersecurity APIs  
+- 🧠 Combines **ML + security** to detect and flag malicious or unsafe content in real time.  
+- 🌐 Explores hybrid approaches for threat intelligence using language models and rule-based checks.
+
+---
+
 ## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
