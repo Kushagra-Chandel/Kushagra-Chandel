@@ -1,62 +1,81 @@
-# Hi there, I'm Kushagra Singh Chandel! 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Kushagra Singh Chandel</span></h1>
 
-🚀 Passionate **B.Tech 3rd-Year CS (AIML) Student** specializing in **AI, ML, and Cloud Computing**. I enjoy building scalable solutions, real-time applications, and contributing to open-source projects.
-
----
-
-## 🏆 About Me  
-- 🔭 Currently working on **AgroMind (AI-Powered Smart Agriculture Platform)** 🌾
-- 🌱 Exploring **Google Cloud, TensorFlow, and AI-driven applications**
-- 👯 Open to **collaborations on AI & ML projects**
-- 💬 Ask me about **Python, Flutter, Firebase, Google Cloud, AI & ML**
-- 📫 How to reach me: **[Email](mailto:chandelkushagra@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kushagra-singh-chandel-33a4571ba)**
+<p align="center">
+  <b>B.Tech (CS - AIML) | AI/ML Developer | Flutter & Cloud Enthusiast</b><br>
+  🚀 Passionate about building intelligent systems and deploying real-world AI solutions
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🧠 About Me
+- 🔭 Currently working on **Mind Vault – AI-powered Mental Wellness Assistant** 🧠✨  
+- 🌱 Exploring **NLP, Deep Learning, FastAPI**, and AI model deployment  
+- 🤝 Open to collaborations in **AI/ML + Full Stack AI projects**  
+- 💬 Ask me about **Python, ML, Flutter, Firebase, TensorFlow, FastAPI**  
+- 📫 Reach me at **[Email](mailto:chandelkushagra@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/kushagra-singh-chandel)
 
-### 🔹 [AgroMind - AI-Powered Crop Disease Detection](https://github.com/youragromindrepo)
-- 🖥️ **Tech Stack:** Flutter, Dart, TensorFlow, Google Cloud, Firebase
-- 📌 Detects crop diseases using **AI-based image recognition**
+---
 
-### 🔹 [Kumbh Sarthi (SIH 2024 - Top 5 Team)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)
-- 📍 **Tech Stack:** Kotlin, Firebase, Google Maps API, SQLite
-- ⚡ Real-time **location tracking, SOS alerts, and medical assistance**
+## 🚀 Featured Projects  
 
-### 🔹 [Algorithm Visualizer](https://github.com/youralgorithmrepo)
-- 📊 **Tech Stack:** Java, JavaFX, MVC Architecture
-- 🔍 Helps students visualize **sorting & searching algorithms**
+### 🧠 [Mind Vault AI](https://github.com/Kushagra-Chandel/MindVault-AI) *(Ongoing)*  
+- **Tech Stack:** Flutter · Python · FastAPI · TensorFlow/Keras · Firebase  
+- 📝 Built a full-stack **mental wellness assistant** offering NLP-based journaling, emotional check-ins, and personalized recommendations.  
+- 🧠 Trained custom deep learning models & deployed using REST APIs.
 
-### 🔹 [Chaitanya AI - AI-Powered Elderly Care Assistant](https://github.com/Kushagra-Chandel/Chaitanya-Virtual-Assistant)  
-- 🤖 **Tech Stack:** Python, TensorFlow, Google Cloud, IoT, Blockchain  
-- 🩺 Provides **predictive health alerts, voice assistant integration, and secure data management** for elderly care.  
+---
+
+### ⚡ [ANN–PID Controller](https://github.com/Kushagra-Chandel/ANN-PID-Controller)  
+- **Tech Stack:** MATLAB · Simulink · Neural Network Toolbox  
+- 🤖 Designed an **adaptive ANN-based PID controller** for DC motor speed regulation.  
+- 📈 Reduced overshoot and improved settling time compared to classical PID through neural network training.
+
+---
+
+### 📰 [Fake Information Detector](https://github.com/Kushagra-Chandel/Fake-Information-Detector)  
+- **Tech Stack:** Python · NLP · Scikit-learn · TensorFlow  
+- 🔍 Trained NLP models to classify fake vs real news with high accuracy.  
+- 🌐 Deployed via API endpoints for scalable use in real-time scenarios.
+
+---
+
+### 🧭 [Kumbh Sarthi (SIH 2024)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)  
+- **Tech Stack:** Flutter · Firebase · Google Maps API  
+- 📍 Real-time tourism assistant app with SOS, medical, and hotel integrations.  
+- 🏆 Selected as **Top 10 Team** under Student Innovation theme at Smart India Hackathon 2024.
 
 ---
 
 ## 🛠 Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Chandel&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Chandel&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect with Me  
-- **Email**: [chandelkushagra@gmail.com](mailto:chandelkushagra@gmail.com)  
-- **LinkedIn**: [Kushagra Singh Chandel](https://www.linkedin.com/in/kushagra-singh-chandel-33a4571ba)  
-- **GitHub**: [Kushagra-Chandel](https://github.com/Kushagra-Chandel)  
+- 📧 **Email**: [chandelkushagra@gmail.com](mailto:chandelkushagra@gmail.com)  
+- 💼 **LinkedIn**: [Kushagra Singh Chandel](https://www.linkedin.com/in/kushagra-singh-chandel)  
+- 🌐 **GitHub**: [Kushagra-Chandel](https://github.com/Kushagra-Chandel)  
 
 ---
 
- *Let's innovate together!* 
-
+<p align="center">
+  ⭐ <b>If you like my work, consider starring my projects!</b> ⭐
+</p>
