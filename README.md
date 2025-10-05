@@ -13,29 +13,29 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🔭 Currently working on **Mind Vault – AI Mental Wellness Assistant** 🧠✨  
-- 🌱 Exploring **NLP, Deep Learning, FastAPI**, and AI model deployment  
-- 🧠 Passionate about **AI for Social Good**, and building production-grade ML systems  
-- 💬 Ask me about **Python, ML, Flutter, Firebase, TensorFlow, FastAPI**  
-- 🏅 Active participant in **Google Developer Community**, Hackathons & LeetCode  
-- 📫 Reach me: [Email](mailto:chandelkushagra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kushagra-singh-chandel) · [GitHub](https://github.com/Kushagra-Chandel)
+-  Currently working on **Mind Vault – AI Mental Wellness Assistant** ✨  
+-  Exploring **NLP, Deep Learning, FastAPI**, and AI model deployment  
+-  Passionate about **AI for Social Good**, and building production-grade ML systems  
+-  Ask me about **Python, ML, Flutter, Firebase, TensorFlow, FastAPI**  
+-  Active participant in **Google Developer Community**, Hackathons & LeetCode  
+- Reach me: [Email](mailto:chandelkushagra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kushagra-singh-chandel) · [GitHub](https://github.com/Kushagra-Chandel)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [Mind Vault AI](https://github.com/Kushagra-Chandel/MindVault-AI) *(Ongoing)*  
+###  [Mind Vault AI](https://github.com/Kushagra-Chandel/MindVault-AI) *(Ongoing)*  
 - **Tech Stack:** Flutter · Python · FastAPI · TensorFlow/Keras · Firebase  
-- 📝 Full-stack AI-powered wellness assistant offering NLP journaling, emotional check-ins & personalized recommendations.  
-- 🚀 Trained custom deep learning models & deployed using REST APIs.
+-  Full-stack AI-powered wellness assistant offering NLP journaling, emotional check-ins & personalized recommendations.  
+-  Trained custom deep learning models & deployed using REST APIs.
 
 ---
 
 ### ⚡ [ANN–PID Controller](https://github.com/Kushagra-Chandel/ANN-PID-Controller)  
 - **Tech Stack:** MATLAB · Simulink · Neural Network Toolbox  
-- 🤖 Designed an **adaptive ANN-based PID controller** for DC motor speed regulation.  
+-   Designed an **adaptive ANN-based PID controller** for DC motor speed regulation.  
 - 📈 Reduced overshoot & improved settling time over classical PID.
 
 ---
@@ -47,10 +47,10 @@
 
 ---
 
-### 🧭 [Kumbh Sarthi (SIH 2024)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)  
+###  [Kumbh Sarthi (SIH 2024)](https://github.com/Kushagra-Chandel/KUMBH-_SARTHI)  
 - **Tech Stack:** Flutter · Firebase · Google Maps API  
-- 📍 Real-time tourism assistant app with SOS, medical & hotel support.  
-- 🏆 **Top 10 Team** at Smart India Hackathon 2024.
+-  Real-time tourism assistant app with SOS, medical & hotel support.  
+-  **Top 10 Team** at Smart India Hackathon 2024.
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 🏅 Badges & Achievements
 
-### 🧠 **Credly Certifications**
+###  **Credly Certifications**
 <p align="center">
   <img src="https://images.credly.com/size/200x200/images/1e3f9b1d-112b-46db-9020-79c8e90a8b8a/image.png" width="80" alt="Prompt Design Vertex AI"/>
   <img src="https://images.credly.com/size/200x200/images/0a12e715-464d-4ea2-91e3-6d84523f5e2a/image.png" width="80" alt="GenAI Apps"/>
@@ -119,7 +119,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
 </p>
 
-### 🤖 Data Science & AI  
+###  Data Science & AI  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
@@ -154,7 +154,7 @@
 
 ---
 
-## 🧠 LeetCode & Daily Streaks
+##  LeetCode & Daily Streaks
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
