@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Kushagra Singh Chandel</span></h1>
 
 <p align="center">
-  <b> B.Tech CSE (AIML) |  AI/ML Developer |  Full Stack Innovator | ☁️ Google Cloud Member</b><br>
+  <b> B.Tech CSE (AIML) |  AI/ML Developer |  Full Stack Innovator |  Google Cloud Member</b><br>
   Building scalable intelligent systems with a mix of ML, Cloud, and Real-World Engineering.
 </p>
 
