@@ -1,285 +1,207 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:1e293b,70:2563eb,100:38bdf8&text=Kushagra%20Singh%20Chandel&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Cloud%20Builder&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&text=Kushagra%20Singh%20Chandel&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Cloud%20Focused&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+Products+That+Scale;Full+Stack+Engineering+%2B+AI+Execution;Cloud+Native+Systems+and+Automation;Turning+Ideas+Into+Production+Ready+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=980&lines=Building+modern+products+across+web%2C+AI+and+cloud;Engineering+clean+systems+with+real+world+impact;From+full+stack+execution+to+intelligent+automation;Focused+on+scale%2C+performance+and+product+thinking" />
 
 <br/><br/>
 
-<img src="https://github.com/Kushagra-Chandel.png" width="160" style="border-radius:50%;" />
+<img src="https://github.com/Kushagra-Chandel.png" width="150" style="border-radius: 50%;" />
 
 <br/><br/>
 
 <a href="mailto:chandelkushagra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://linkedin.com/in/kushagra-singh-chandel">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/Kushagra-Chandel">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kushagra-Chandel&style=for-the-badge&color=2563eb"/>
-<img src="https://img.shields.io/github/followers/Kushagra-Chandel?style=for-the-badge&color=0f172a"/>
-<img src="https://img.shields.io/github/stars/Kushagra-Chandel?style=for-the-badge&color=1e293b"/>
+<img src="https://komarev.com/ghpvc/?username=Kushagra-Chandel&style=for-the-badge&color=2563eb" />
+<img src="https://img.shields.io/github/followers/Kushagra-Chandel?style=for-the-badge&color=0f172a" />
+<img src="https://img.shields.io/github/stars/Kushagra-Chandel?style=for-the-badge&color=1e293b" />
 
 </div>
 
 ---
 
-# About Me
+## Executive Summary
 
-<table>
-<tr>
-<td width="62%">
+I build software products that combine **full stack engineering**, **AI/ML integration**, and **cloud-first thinking**.
 
-I am a **Full Stack Developer** focused on building scalable software products powered by modern engineering, AI systems, and cloud technologies.
+My work focuses on turning ideas into usable systems — from frontend experiences and backend APIs to machine learning pipelines, automation workflows, and scalable deployments.
 
-My expertise spans from frontend interfaces to backend APIs, databases, machine learning integration, and deployment workflows.
-
-I enjoy solving practical problems with clean architecture and shipping products users actually need.
-
-### Current Focus
-
-- Full Stack Product Engineering  
-- AI/ML Integrated Applications  
-- Cloud Native Workflows  
-- Scalable Backend APIs  
-- DSA & Competitive Coding  
-
-</td>
-
-<td width="38%" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kushagra-Chandel&theme=algolia&no-frame=true&row=2&column=3"/>
-
-</td>
-</tr>
-</table>
+- Full Stack Product Engineering
+- AI/ML-Powered Applications
+- Cloud Workflows and Deployment
+- Scalable Backend Systems
+- Competitive Programming and DSA
 
 ---
 
-# Tech Stack
+## Core Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,dart,react,nextjs,flutter,nodejs,express,dotnet,firebase,mysql,mongodb,tensorflow,pytorch,git,github,docker,gcp,azure,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,dart,react,nextjs,flutter,nodejs,express,dotnet,fastapi,firebase,mysql,mongodb,tensorflow,pytorch,docker,git,github,azure,gcp,linux,vscode&perline=9" />
 
 </div>
 
 ---
 
-# Featured Projects
+## Flagship Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### StudentVerse 2.0
+A modern student productivity ecosystem designed to centralize academic workflows, communication, and campus collaboration.
 
-## StudentVerse 2.0
-
-AI-powered digital campus ecosystem.
-
-**Stack**  
-Flutter • Firebase • AI APIs
-
-**Built**
-- Smart student assistant  
-- Notes & resources exchange  
-- Events & announcements  
-- Attendance workflows  
-- Real-time notifications  
-
-</td>
-
-<td width="50%" valign="top">
-
-## Hotel Booking System
-
-Enterprise reservation platform.
-
-**Stack**  
-ASP.NET Core • SQL Server • C#
-
-**Built**
-- Room booking engine  
-- Admin dashboard  
-- Authentication system  
-- Booking management  
-- Responsive UI  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## MindVault AI
-
-Wellness assistant with AI insights.
-
-**Stack**  
-Flutter • FastAPI • TensorFlow
-
-**Built**
-- Emotion tracking  
-- Personalized suggestions  
-- Real-time responses  
-- AI journaling support  
-
-</td>
-
-<td width="50%" valign="top">
-
-## Source Shield
-
-Threat & fake content detection system.
-
-**Stack**  
-Python • NLP • ML
-
-**Built**
-- Fake content detection  
-- Risk scoring  
-- Threat classification  
-- Smart filtering engine  
-
-</td>
-</tr>
-</table>
+**Built with:** Flutter • Firebase • Firestore • REST APIs • AI Integration  
+**Highlights:** AI student assistant, notes sharing, events, announcements, tasks, notifications
 
 ---
 
-# Experience
+### MindVault AI
+An intelligent wellness platform focused on emotion-aware support, journaling, and personalized guidance.
 
-<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
-### AI Engineer Intern — IBM SkillBuild / Edunet
-
-- ML model training  
-- TensorFlow pipelines  
-- AI deployment workflows  
-
-### Generative AI Intern — Google Cloud Program
-
-- Prompt engineering  
-- Vertex AI workflows  
-- Gemini ecosystem  
-- Multimodal AI systems  
-
-<br clear="right"/>
+**Built with:** Flutter • FastAPI • Python • TensorFlow • Firebase  
+**Highlights:** mood tracking, recommendations, real-time AI responses, adaptive workflows
 
 ---
 
-# Achievements
+### Hotel Booking System
+A structured reservation and management platform designed to digitize booking operations and simplify hotel workflows.
+
+**Built with:** ASP.NET Core • C# • SQL Server • Bootstrap • JavaScript  
+**Highlights:** reservation engine, admin dashboard, authentication, records management, responsive UI
+
+---
+
+### ANN PID Controller
+An adaptive motor control system using neural networks for optimized response behavior.
+
+**Built with:** MATLAB • Simulink • Neural Network Toolbox  
+**Highlights:** PID auto-tuning, reduced overshoot, faster settling, control optimization
+
+---
+
+### Source Shield
+An AI-powered trust and threat detection framework for filtering fake, unsafe, and misleading content.
+
+**Built with:** Python • NLP • Scikit-learn • TensorFlow  
+**Highlights:** content classification, unsafe source filtering, rule + ML validation pipeline
+
+---
+
+## Professional Exposure
+
+### AI Engineer Intern — Edunet Foundation / IBM SkillBuild
+- Worked on ML training and preprocessing workflows
+- Built familiarity with TensorFlow-based pipelines
+- Gained exposure to cloud-oriented deployment thinking
+
+### Generative AI Intern — SmartInterns / Google Cloud
+- Worked on prompt engineering and applied GenAI workflows
+- Explored Vertex AI and multimodal AI use cases
+- Learned cloud-based AI experimentation and deployment flows
+
+---
+
+## Signals of Execution
+
+- 500+ coding problems solved
+- 130+ day coding consistency streak
+- Top 10 college team at Smart India Hackathon
+- TCS CodeVita global rank 2107
+- Google Cloud Innovator member
+
+---
+
+## Certifications
 
 <div align="center">
 
-| Milestone | Status |
-|----------|--------|
-| LeetCode Problems Solved | 500+ |
-| Coding Streak | 130+ Days |
-| Smart India Hackathon | Top 10 Team |
-| TCS CodeVita | Rank 2107 |
-| Google Cloud Innovator | Active Member |
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Skill%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-Vector%20AI-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Data%20Science%20%26%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
 ---
 
-# GitHub Analytics
+## GitHub Intelligence
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Chandel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Chandel&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# Activity Graph
+## Engineering Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Chandel&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Chandel&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-# Contribution Snake
+## Competitive Coding
 
 <div align="center">
 
-<img src="https://github.com/Kushagra-Chandel/Kushagra-Chandel/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=dark&font=Nunito&ext=contest" />
 
 </div>
 
 ---
 
-# Competitive Coding
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://raw.githubusercontent.com/Kushagra-Chandel/Kushagra-Chandel/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-# Certifications
+## Current Direction
 
-<div align="center">
+```text
+Building:
+- Production-grade full stack applications
+- AI-integrated user-facing systems
+- Cloud-deployable software workflows
+- A strong long-term engineering profile
 
-<img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Vector%20AI-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+Learning:
+- System design
+- Scalable architecture
+- Applied AI workflows
+- Product-led engineering
 
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:chandelkushagra@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kushagra-singh-chandel">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kushagra-Chandel">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Connect
+<div align="center"> <a href="mailto:chandelkushagra@gmail.com"> <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/kushagra-singh-chandel"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Kushagra-Chandel"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
 <div align="center">
-
-### Engineer Mindset • AI Thinking • Product Execution
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,35:1e293b,70:2563eb,100:38bdf8"/>
-
-</div>
+Clean Systems • Sharp Execution • Long-Term Growth
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8" /> </div> ```
