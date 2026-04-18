@@ -1,229 +1,221 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Kushagra+Singh+Chandel;AI%2FML+Developer+%7C+Full+Stack+Engineer;Problem+Solver+%7C+Hackathon+Builder;Building+Tech+That+Creates+Impact+🚀" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushagra-Chandel&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kushagra-Chandel?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Kushagra-Chandel?label=Stars&style=for-the-badge&color=yellow" />
+# Kushagra Singh Chandel
+
+### Software Engineer • AI/ML Developer • Full Stack Builder
+
+<p>
+<a href="mailto:chandelkushagra@gmail.com">Email</a> •
+<a href="https://linkedin.com/in/kushagra-singh-chandel">LinkedIn</a> •
+<a href="https://github.com/Kushagra-Chandel">GitHub</a>
 </p>
 
-<p align="center">
-  <a href="mailto:chandelkushagra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kushagra-singh-chandel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Kushagra-Chandel"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kushagra-Chandel&label=Profile+Views&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Kushagra-Chandel?style=flat-square" />
+<img src="https://img.shields.io/github/stars/Kushagra-Chandel?style=flat-square" />
+
+</div>
 
 ---
 
-<img align="right" alt="coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## Introduction
 
-## 🚀 About Me
+I build intelligent and scalable digital products that combine software engineering with machine learning. My focus is creating systems that solve practical problems, improve workflows, and deliver measurable value.
 
-🎓 B.Tech CSE (AI/ML) Student  
-💡 AI/ML Developer | Full Stack Builder | Innovation Enthusiast  
-⚡ Building scalable applications with **AI + Cloud + Real World Utility**  
-🏆 Smart India Hackathon Finalist & Competitive Coder  
-🌱 Currently exploring **LLMs, FastAPI, .NET, Cloud Deployment, System Design**  
-🎯 Goal: Build products that impact millions  
-
-📩 Reach Me: **chandelkushagra@gmail.com**
+Currently exploring modern backend architecture, applied AI, cloud deployment, and production-grade full stack systems.
 
 ---
 
-# 💼 Professional Highlights
+## Snapshot
 
-✅ Built multiple production-ready AI + Full Stack Projects  
-✅ Strong in solving real-world problems through technology  
-✅ Experience in **Flutter, Firebase, Python, FastAPI, .NET, React**  
-✅ Passionate about Hackathons, Open Source & Product Development  
-✅ Active LeetCode problem solver with consistency streaks  
-
----
-
-# 🧠 Featured Projects
-
-## 🌟 StudentVerse 2.O
-> Smart AI Campus Ecosystem for Students
-
-### 🔧 Tech Stack:
-`Flutter` `Firebase` `OpenAI API` `Cloud Firestore` `Node.js`
-
-### 🚀 Features:
-- AI Chatbot for students
-- Smart Notes Sharing
-- Events & Announcements
-- Course Dashboard
-- Student Community
-- Dark / Light Themes
-- Real-time Notifications
-
-### 📈 Impact:
-✔ Improved student collaboration  
-✔ Centralized campus utilities  
-✔ AI-powered productivity system  
+| Area | Details |
+|------|---------|
+| Education | B.Tech Computer Science (AI/ML) |
+| Primary Focus | Full Stack Development + AI Systems |
+| Interests | Product Engineering, Automation, System Design |
+| Current Stack | .NET, Python, React, Flutter, Firebase |
+| Strengths | Problem Solving, Rapid Building, Execution |
 
 ---
 
-## 🏨 Hotel Booking System
+## Selected Work
 
-> Complete hotel reservation & management platform
+## StudentVerse 2.0
 
-### 🔧 Tech Stack:
-`.NET Core` `C#` `SQL Server` `Bootstrap` `JavaScript`
+A modern student ecosystem designed to centralize academic life, communication, productivity, and campus engagement.
 
-### 🚀 Features:
-- Room Booking Engine
-- Admin Dashboard
-- Payment Flow
-- Booking History
-- User Authentication
-- Responsive UI
+**Technology**  
+Flutter • Firebase • Firestore • REST APIs • AI Integration
 
-### 📈 Impact:
-✔ Automated manual booking process  
-✔ Better hotel management workflow  
-✔ Real-time room availability  
+**Highlights**
+- Unified student dashboard
+- Smart note/resource sharing
+- AI academic assistant
+- Campus events & announcements
+- Real-time notifications
+- Cross-platform mobile experience
+
+**Impact**
+Built as a scalable campus product model to improve student productivity and collaboration.
 
 ---
 
-## ⚙️ ANN Controller
+## Hotel Booking System
 
-> Intelligent adaptive motor speed controller using Neural Networks
+A complete reservation platform for hotels with admin controls and booking automation.
 
-### 🔧 Tech Stack:
-`MATLAB` `Simulink` `ANN Toolbox`
+**Technology**  
+ASP.NET Core • C# • SQL Server • Bootstrap • JavaScript
 
-### 🚀 Features:
-- ANN based PID tuning
-- Dynamic speed optimization
+**Highlights**
+- Room inventory management
+- Booking workflow
+- Admin analytics dashboard
+- User authentication
+- Booking history
+- Responsive interface
+
+**Impact**
+Digitized hotel operations and simplified booking management.
+
+---
+
+## ANN Controller
+
+Adaptive motor speed control system using Artificial Neural Networks.
+
+**Technology**  
+MATLAB • Simulink • Neural Networks Toolbox
+
+**Highlights**
+- ANN-based tuning model
+- Improved response stability
 - Reduced overshoot
-- Better stability response
+- Faster settling performance
+- Adaptive control behavior
 
-### 📈 Impact:
-✔ Better than traditional PID  
-✔ Enhanced industrial automation control systems  
-
----
-
-## 🛡️ Source Shield
-
-> Smart security intelligence system for source threat detection
-
-### 🔧 Tech Stack:
-`Python` `Machine Learning` `NLP` `Cybersecurity`
-
-### 🚀 Features:
-- Threat classification
-- Malicious content detection
-- NLP based filtering
-- Real-time monitoring
-
-### 📈 Impact:
-✔ Improved digital threat awareness  
-✔ AI based cyber protection layer  
+**Impact**
+Demonstrated intelligent alternatives to classical PID systems.
 
 ---
 
-## 🧠 Mind Vault AI
+## Source Shield
 
-> AI Mental Wellness Assistant
+A security-focused detection system designed for identifying malicious or suspicious content streams.
 
-### 🔧 Tech Stack:
-`Flutter` `FastAPI` `TensorFlow` `Firebase`
+**Technology**  
+Python • NLP • Machine Learning • Security Logic
 
-### 🚀 Features:
-- Emotion detection
-- Journaling AI
-- Personalized wellness suggestions
-- Smart mood insights
+**Highlights**
+- Threat classification engine
+- Pattern detection pipeline
+- Real-time text scanning
+- Risk scoring model
+- Smart alert architecture
 
-### 📈 Impact:
-✔ Mental wellness support using AI  
-✔ Productivity + emotional awareness  
-
----
-
-# 🛠️ Tech Arsenal
-
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,dart,java,php" />
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,flutter" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,flask,firebase" />
-</p>
-
-### ☁️ Cloud / DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,linux" />
-</p>
-
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+**Impact**
+Built to explore AI-assisted defensive systems for cybersecurity.
 
 ---
 
-# 📊 GitHub Analytics
+## Mind Vault AI
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=tokyonight&hide_border=true"/>
-</p>
+Mental wellness assistant powered by machine learning.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-Chandel&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Technology**  
+Flutter • FastAPI • TensorFlow • Firebase
 
----
+**Highlights**
+- Emotion-aware journaling
+- Recommendation engine
+- Sentiment insights
+- Habit support workflows
+- Personalized responses
 
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Chandel&theme=react-dark&hide_border=true"/>
-</p>
+**Impact**
+Focused on accessible digital wellness support.
 
 ---
 
-# 🧩 LeetCode Zone
+## Technical Stack
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=dark&font=baloo&ext=contest"/>
-</p>
+### Languages
 
-<p align="center">
-🏆 Consistent Problem Solver • Daily DSA Practice • Strong Logic Building
-</p>
+`Python` `C#` `JavaScript` `TypeScript` `C++` `Dart` `SQL`
 
----
+### Frontend
 
-# 🏅 Certifications & Achievements
+`React` `Next.js` `HTML` `CSS` `Bootstrap` `Flutter`
 
-🏆 Google Cloud Innovator  
-🏆 Google I/O Connect Attendee  
-🏆 Smart India Hackathon Finalist  
-🏆 AI/ML Certifications  
-🏆 Open Source Contributor  
+### Backend
 
----
+`.NET Core` `Node.js` `Express` `FastAPI` `Firebase`
 
-# 🌐 Let's Connect
+### Data / AI
 
-<p align="center">
-<a href="mailto:chandelkushagra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kushagra-singh-chandel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Kushagra-Chandel"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+`TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `Pandas`
+
+### Dev Tools
+
+`Git` `GitHub` `Docker` `Linux` `Postman`
 
 ---
 
-<h3 align="center">⭐ “Code. Build. Impact. Repeat.” ⭐</h3>
+## Coding Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Chandel&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Chandel&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Chandel&bg_color=ffffff&color=000000&line=444444&point=111111&hide_border=true" />
+
+</div>
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Kushagra_Chandel?theme=light&font=Karma&ext=contest" />
+
+</div>
+
+Consistent DSA practice with focus on logic, optimization, and interview-level problem solving.
+
+---
+
+## Certifications & Recognition
+
+- Google Cloud Innovator
+- Google Community Programs Participant
+- Smart India Hackathon Competitor
+- AI / ML Learning Certifications
+- Active Project Builder
+
+---
+
+## Philosophy
+
+I believe strong products are built where engineering discipline meets practical creativity.
+
+---
+
+## Contact
+
+**Email:** chandelkushagra@gmail.com  
+**LinkedIn:** https://linkedin.com/in/kushagra-singh-chandel  
+**GitHub:** https://github.com/Kushagra-Chandel
+
+---
+
+<div align="center">
+
+### Building systems that matter.
+
+</div>
